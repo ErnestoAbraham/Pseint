@@ -1,2 +1,2 @@
 # Pseint
-Este repositorio son practicas del curso básico de pensamiento computacional y fundamentos d eprogramacion 
+This repository are practices of the basic course of computational thinking and programming fundamentals. 
